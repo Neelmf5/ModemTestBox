@@ -6,7 +6,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "moe.xzr.nrmodeswitcher"
+        applicationId "com.qualcomm.qti.modemtestmode"
         minSdk 30
         targetSdk 30
     }
